@@ -9,10 +9,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Burka111&theme=tokyonight&no-frame=false&no-bg=true&margin-w=2&column=4" alt="GitHub Trophies" />
-</p>
+
 
 ## 🚀 About Me  
 - 💻 **Frontend & Backend Developer**  
@@ -28,7 +25,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 </p>
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Burka111&theme=tokyonight&no-frame=false&no-bg=true&margin-w=2&column=4" alt="GitHub Trophies" />
+</p>  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,4 +56,3 @@
 
 ---
 ⭐️ *Inspired by amazing GitHub profiles!*
-
