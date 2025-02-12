@@ -10,9 +10,12 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 ## 🚀 About Me  
-- 💻 **Frontend & Backend Developer**  
-- 🌱 Currently learning **React & Node.js**  
-- ⚡ Fun fact: *I love coding and open-source!*  
+- 💻 **Full-Stack Developer** with experience in **Frontend & Backend**  
+- 🌱 Currently learning **React, Node.js, TypeScript, and DevOps**  
+- 🔨 Skilled in **JavaScript, Python, SQL, MongoDB, REST API, and Docker**  
+- 🚀 Love automation, web development, and application deployment  
+- 🛠 Open to new projects, collaborations, and open-source contributions  
+- ⚡ Fun fact: **I enjoy solving complex problems and finding creative solutions!** 
 
 ## 🔥 My Projects  
 - 🖩 [Python Calculator](https://github.com/Burka111/python-calculator) — A simple CLI calculator in Python  
