@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Hello,+I'm+Burka!+<img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='30px'>;Welcome+to+my+GitHub!;I+love+coding+and+open-source!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Hello,+I'm+Burka!+👋;Welcome+to+my+GitHub!;I+love+coding+and+open-source!+🚀" />
 </h1>
 
 <p align="center">
@@ -54,3 +54,4 @@
 
 ---
 ⭐️ *Inspired by amazing GitHub profiles!*
+
