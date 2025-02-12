@@ -11,7 +11,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Burka111&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Burka111&theme=tokyonight&no-frame=false&no-bg=true&margin-w=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ## 🚀 About Me  
@@ -45,7 +45,7 @@
 
 ## 📌 Meme of the Day  
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Funny Programming Meme" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Funny Programming Meme" />
 </p>
 
 ## 📫 Connect with Me  
@@ -54,3 +54,4 @@
 
 ---
 ⭐️ *Inspired by amazing GitHub profiles!*
+
