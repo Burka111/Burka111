@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Burka! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Hello,+I'm+Burka!+👋;Welcome+to+my+GitHub!;I+love+coding+and+open-source!+🚀" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/Burka111"><img src="https://komarev.com/ghpvc/?username=Burka111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
