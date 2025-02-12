@@ -9,6 +9,11 @@
 
 ![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Burka111&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 ## 🚀 About Me  
 - 💻 **Frontend & Backend Developer**  
 - 🌱 Currently learning **React & Node.js**  
@@ -17,6 +22,11 @@
 ## 🔥 My Projects  
 - 🖩 [Python Calculator](https://github.com/Burka111/python-calculator) — A simple CLI calculator in Python  
 - 🌐 [Portfolio Website](https://github.com/Burka111/portfolio-website) — My personal website built with HTML, CSS, and JavaScript  
+
+## 💡 Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+</p>
 
 ## 🛠 Tech Stack  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,6 +42,11 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burka111&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📌 Meme of the Day  
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Funny Programming Meme" />
+</p>
 
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Burka111)
