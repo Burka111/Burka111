@@ -7,7 +7,7 @@
   <a href="https://github.com/Burka111?tab=followers"><img src="https://img.shields.io/github/followers/Burka111?label=Followers&style=social" alt="GitHub followers" /></a>
 </p>
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 ## 🏆 GitHub Trophies  
 <p align="center">
@@ -54,4 +54,3 @@
 
 ---
 ⭐️ *Inspired by amazing GitHub profiles!*
-
