@@ -5,6 +5,8 @@
   <a href="https://github.com/Burka111?tab=followers"><img src="https://img.shields.io/github/followers/Burka111?label=Followers&style=social" alt="GitHub followers" /></a>
 </p>
 
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 ## 🚀 About Me  
 - 💻 **Frontend & Backend Developer**  
 - 🌱 Currently learning **React & Node.js**  
@@ -22,6 +24,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Burka111&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Burka111&theme=tokyonight" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burka111&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Burka111)
