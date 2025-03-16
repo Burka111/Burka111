@@ -17,9 +17,13 @@
 - 🛠 Open to new projects, collaborations, and open-source contributions  
 - ⚡ Fun fact: **I enjoy solving complex problems and finding creative solutions!** 
 
-## 🔥 My Projects  
-- 🖩 [Python Calculator](https://github.com/Burka111/python-calculator) — A simple CLI calculator in Python  
-- 🌐 [Portfolio Website](https://github.com/Burka111/portfolio-website) — My personal website built with HTML, CSS, and JavaScript  
+### 📂 Projects  
+📌 **[Python Calculator](https://github.com/Burka111/python-calculator)**  
+*A simple command-line calculator built with Python.*  
+
+📌 **[Portfolio Website](https://github.com/Burka111/portfolio-website)**  
+*A clean and responsive portfolio website made with HTML, CSS, and JavaScript.*  
+
 
 ## 💡 Quote of the Day  
 <p align="center">
